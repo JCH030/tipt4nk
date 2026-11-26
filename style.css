@@ -26,3 +26,13 @@ footer .wrap{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap}
 footer a{color:var(--ink);margin-right:16px}
 .muted{color:var(--muted);font-size:14px}
 @media (max-width:600px){h1{font-size:30px}nav a{margin:0 14px 0 0}}
+.btn{display:inline-block;background:var(--green);color:#000;font-weight:800;padding:12px 20px;border-radius:10px;text-decoration:none}
+.pill{display:inline-block;border:1px solid var(--line);border-radius:999px;padding:4px 12px;margin:4px 6px 4px 0;text-decoration:none;font-size:14px}
+a.card{display:block;text-decoration:none;color:var(--ink)}
+a.card:hover{border-color:var(--green)}
+.tipcard b{color:var(--ink);font-size:16px;line-height:1.35}
+.tag{display:block;font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--green);margin-bottom:6px}
+.crumbs{font-size:14px;color:var(--muted);margin:0 0 10px}
+h1.article{font-size:32px;text-transform:none}
+li{margin:6px 0}
+.social.small a{color:var(--muted);margin-right:12px}

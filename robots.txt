@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jch030.github.io/tipt4nk/sitemap.xml
